@@ -1,0 +1,26 @@
+{
+  "name": "trimbody",
+  "version": "1.0.0",
+  "description": "Trim extra spaces on http request body.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hashtaagco",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashtaagco/trimbody.git"
+  },
+  "keywords": [
+    "sails",
+    "json",
+    "request",
+    "trim",
+    "body"
+  ],
+  "bugs": {
+    "url": "https://github.com/hashtaagco/trimbody/issues"
+  },
+  "homepage": "https://github.com/hashtaagco/trimbody#readme"
+}
