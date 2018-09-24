@@ -37,9 +37,9 @@ Now make post request via curl / postman to verify.
 
 `curl -X POST -H "Content-Type: application/json"  --data '{  "name" : "Anand Siddharth    " }' http://localhost:9092/test`
 
-Response : `{"name":"Anand"}`.
+Response : `{"name":"Anand Siddharth"}`.
 
-Observe that the extra space is gone.
+Observe that the extra space is gone in the key `name`.
 
 
 That's all folks
